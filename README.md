@@ -8,6 +8,7 @@
 - [ ] 視線の計測を行う
 
 ## 参考URL
+* [nvmでの環境構築] (https://zenn.dev/nok_c7/articles/536ac2d35bf9e6)
 
 ## 構成図
 
