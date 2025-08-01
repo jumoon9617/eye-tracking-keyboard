@@ -1,0 +1,25 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Node.js
+# ignore node_modules, it will be reinstalled in the container
+node_modules/
+
+# Multimedia files
+media/
+
+# Documentation
+README.md
+
+# VCS
+.git/
+.github/
+.gitlab/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Temporary files created by editors
+*~
