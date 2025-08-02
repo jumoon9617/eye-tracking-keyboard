@@ -7,6 +7,9 @@
 - [x] 環境構築
 - [x] サンプルコードを実行してみる
 - [x] 改造して視線を数値かしてを入手できるようにする
+- [ ] タイピングソフトの画面を録画できるようにする
+- [ ] 測定開始をして、下を向きながらタップしたキーを保存する
+- [ ] どのキーを覚えるべきかデータを集計する
 
 ## 参考URL
 * [DepthaiV3のXLinkOut対応] (https://discuss.luxonis.com/d/6204-depthai-v3-new-practice-for-xlinkout)
